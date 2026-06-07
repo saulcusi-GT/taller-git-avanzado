@@ -7,3 +7,7 @@ Texto A desde Main
 Texto B desde Dev
 
 Linea editada desde mi PC.
+
+Cambio 1 realizado en la rama DEV.
+
+Linea editada desde la nube.
